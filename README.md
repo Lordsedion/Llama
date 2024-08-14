@@ -9,11 +9,13 @@ Token sizes used were: 50m, 100m, 200m, and 385m respectively.
 
 The model configuration was the same for each token size.
 
+## Llama 14m - 50m tokens
+
 ![download](https://github.com/user-attachments/assets/d3780756-c4cd-49c4-9293-a7c2eb473909)
 
 14 million parameter LLama model trained on 50 million tokens.
 
-
+## LLama 15m - 200m tokens
 
 ![download](https://github.com/user-attachments/assets/98f54a85-8f98-4611-9c55-eb96a1985271)
 
