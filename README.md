@@ -10,7 +10,9 @@ Token sizes used were: 50m, 100m, 200m, and 385m respectively.
 The model configuration was the same for each token size.
 
 ![download](https://github.com/user-attachments/assets/d3780756-c4cd-49c4-9293-a7c2eb473909)
+
 14 million parameter LLama model trained on 50 million tokens.
 
 ![download](https://github.com/user-attachments/assets/98f54a85-8f98-4611-9c55-eb96a1985271)
-15 million parameter model trained on 200 million tokens
+
+15 million parameter model trained on 200 million tokens achieving a loss of 5.422 using the tiktoken GPT-4 tokenizer
